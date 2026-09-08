@@ -98,13 +98,6 @@ Pour tester les filtres et les graphiques interactifs, téléchargez le fichier 
 
 [**Télécharger le tableau de bord Excel**](Projet_Diabete_France_Andrea_Kouadio.xlsx)
 
-## Auteur
-
-**Andréa KOUADIO**  
-Data Analyst — Analyse statistique, fiabilisation des données et visualisation
-
-- [LinkedIn](https://www.linkedin.com/in/andr%C3%A9a-kouadio-a42085226/)
-- [Portfolio](https://kam886.github.io/)
 
 ## Licence
 
