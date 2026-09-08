@@ -92,12 +92,6 @@ Les feuilles détaillées permettent également de consulter les données nation
 - Data visualisation
 - Restitution de résultats pour l’aide à la décision
 
-## Consulter le projet
-
-Pour tester les filtres et les graphiques interactifs, téléchargez le fichier Excel :
-
-[**Télécharger le tableau de bord Excel**](Projet_Diabete_France_Andrea_Kouadio.xlsx)
-
 
 ## Licence
 
