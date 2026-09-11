@@ -95,5 +95,4 @@ Les feuilles détaillées permettent également de consulter les données nation
 
 Ce projet est distribué sous licence [MIT](LICENSE).
 
-Les données utilisées restent soumises aux conditions de réutilisation de l’Assurance Maladie.
 
