@@ -1,9 +1,5 @@
 # Analyse du diabète en France
 
-## Tableau de bord interactif sous Excel
-
-![Aperçu du tableau de bord](assets/dashboard_diabete.png)
-
 ## Présentation du projet
 
 Ce projet analyse l’évolution du diabète en France entre **2015 et 2024** à partir des données publiques de l’Assurance Maladie.
@@ -65,6 +61,8 @@ Le fichier Excel contient :
 - des tableaux synthétiques présentant uniquement les résultats essentiels.
 
 Les feuilles détaillées permettent également de consulter les données nationales, départementales, les dépenses, les classes d’âge et les comorbidités.
+
+![Aperçu du tableau de bord](assets/dashboard_diabete.png)
 
 ## Principaux résultats
 
