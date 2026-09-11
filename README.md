@@ -62,7 +62,7 @@ Le fichier Excel contient :
 
 Les feuilles détaillées permettent également de consulter les données nationales, départementales, les dépenses, les classes d’âge et les comorbidités.
 
-![Aperçu du tableau de bord](assets/dashboard_diabete.png)
+![Aperçu du tableau de bord](dashboard_diabete.png)
 
 ## Principaux résultats
 
